@@ -1,0 +1,15 @@
+{
+  "routes": [
+    "/en-US/",
+    "/en-US/fifth-component",
+    "/en-US/firs-section",
+    "/en-US/fourth-section",
+    "/en-US/new-section",
+    "/en-US/prices.component",
+    "/en-US/qr-section.component",
+    "/en-US/second-section",
+    "/en-US/seventh-component",
+    "/en-US/sixth-component",
+    "/en-US/third-section"
+  ]
+}
